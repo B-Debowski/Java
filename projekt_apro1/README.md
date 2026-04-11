@@ -1,3 +1,3 @@
 # projekt_GoL
-Byłem odpowiedzialny za dodanie Zapisu i odczytu z pliku JSON, Wszystkie klasy związane z kamerą i przeliczaniem współrzędnych
+W projekcie Game of Life, byłem odpowiedzialny za obsługę plików JSON ora za klasy z katalogu View. (Ustalanie współrzędnych, zoom out, zoom in, itp. )
 
